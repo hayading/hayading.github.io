@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Alex&#39;s universe</title>
-        <link>http://example.org/</link>
-        <description>分享日常，分享技术</description>
+        <title>所有文章 - Alex&#39;s universe</title>
+        <link>http://example.org/posts/</link>
+        <description>所有文章 | Alex&#39;s universe</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>papermirror00@gmail.com (Moshiwei)</managingEditor>
-            <webMaster>papermirror00@gmail.com (Moshiwei)</webMaster><lastBuildDate>Tue, 30 Nov 2021 12:35:21 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>papermirror00@gmail.com (Moshiwei)</webMaster><lastBuildDate>Tue, 30 Nov 2021 12:35:21 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>New</title>
     <link>http://example.org/new/</link>
     <pubDate>Tue, 30 Nov 2021 12:35:21 &#43;0800</pubDate>
