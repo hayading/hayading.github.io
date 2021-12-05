@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>读书 - 分类 - 柴柴的花园</title>
+        <link>http://example.org/categories/%E8%AF%BB%E4%B9%A6/</link>
+        <description>读书 - 分类 - 柴柴的花园</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>papermirror00@gmail.com (柴柴)</managingEditor>
+            <webMaster>papermirror00@gmail.com (柴柴)</webMaster><lastBuildDate>Sun, 05 Dec 2021 16:46:41 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E8%AF%BB%E4%B9%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>由一次焦虑引发的思考</title>
+    <link>http://example.org/%E7%94%B1%E4%B8%80%E6%AC%A1%E7%84%A6%E8%99%91%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83/</link>
+    <pubDate>Sun, 05 Dec 2021 16:46:41 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/%E7%94%B1%E4%B8%80%E6%AC%A1%E7%84%A6%E8%99%91%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+    <description><![CDATA[人要是能像机器一样昼夜不歇地运转就好了。可惜不能，尤其是在学习的时候。学习效率降低、学不进去带来的焦虑让我坐立不安。昨天下午，再次翻开《计算]]></description>
+</item><item>
+    <title>《写作是门手艺》读书随笔</title>
+    <link>http://example.org/%E5%86%99%E4%BD%9C%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA%E8%AF%BB%E4%B9%A6%E9%9A%8F%E7%AC%94/</link>
+    <pubDate>Sun, 05 Dec 2021 15:23:27 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/%E5%86%99%E4%BD%9C%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA%E8%AF%BB%E4%B9%A6%E9%9A%8F%E7%AC%94/</guid>
+    <description><![CDATA[写作很难 上学的时候，写作于我来说，是一件让我非常害怕的事情。现在想来，大概有两个原因。一是当时似乎没有什么表达的欲望，自然也就不知道该写什么]]></description>
+</item></channel>
+</rss>
